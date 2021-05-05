@@ -1,0 +1,38 @@
+
+body{
+font-size: 15px;
+font-family: Arial, sans-serif;   
+}
+
+
+form {
+  max-width: 80%;
+  background: #33CCCC;
+  margin: 0px auto;
+  padding: 10px 30px 30px 40px;
+  border-radius: 15px;
+}
+
+form div {
+  margin-bottom: 10px;
+  position: relative;
+}
+
+
+  h1{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 35px;
+  }
+
+  .form_input{
+    height: 20px;
+    width: 90%;
+  }
+
+  .answer{
+    font-size: 20px;
+    margin-top: 25px;
+  }
+
+ 
